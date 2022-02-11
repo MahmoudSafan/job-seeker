@@ -1,5 +1,6 @@
 # job-seeker
-## job seeker helps you in your online job search to find Jobs in Egypt and Middle East
+### Job board Project is an online job search to find Jobs in the Middle East.
+you can add Job and everything you can relate to this job by the easy dashboard to control everything in your project, also you can add managers to manage the site and add Job's Groups
 
 ![Capture5](https://user-images.githubusercontent.com/46950214/122166616-2b235580-ce7a-11eb-8e46-95bdbdaa27d4.PNG)
 ![Capture6](https://user-images.githubusercontent.com/46950214/122166618-2bbbec00-ce7a-11eb-9e49-8444c54ab8dd.PNG)
